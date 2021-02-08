@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "337bb464ebd07ebf",
+    "type": "split",
+    "children": [
+      {
+        "id": "330e8e19a614eb88",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "daily/29-01-2021.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10dec627b8c39e6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1edd63dd889aa8a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0685d3ea8a84c026",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba0b820bc04377d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec2b8facd389ce0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8571cf2988c6afd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a11a7a23acab48be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/29-01-2021.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1a61192d9dc27ba",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "daily/29-01-2021.md",
+    "daily/28-01-2021.md",
+    "daily/26-01-2021.md",
+    "Resources created so far.md",
+    "Notes.md",
+    "Untitled.md",
+    "To do.md",
+    "daily/18-01-2021.md",
+    "Priority deployment.md",
+    "daily/19-01-2021.md"
+  ]
+}
